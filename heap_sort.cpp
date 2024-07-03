@@ -20,6 +20,7 @@ void adjust_down(int arr[],int parent,int size)
 	}
 
 }
+//记录修改
 void heap_sort(int arr[],int size)
 {
 	//build a max heap
